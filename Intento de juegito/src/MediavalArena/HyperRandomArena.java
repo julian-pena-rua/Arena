@@ -77,7 +77,17 @@ public class HyperRandomArena {
 
 			if(Res == 'S' || Res == 's' ) {
 				MostrarDatosPersonaje(Witch);
+				
+				mensaje_confirmacion mensaje = new mensaje_confirmacion();
+				
+				if(mensaje.confirmacion = true) {
+					System.out.println("Has confirmado el personaje mago.");
+					System.out.println("Cargando pantalla siguiente.");
+				}else {
+					System.out.println("Cargando menú de nuevo.");
+				}
 			}
+			
 			break;
 			//EN CASO DE ESCOGER AL BARBARO
 		case 2:
