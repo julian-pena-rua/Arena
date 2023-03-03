@@ -1,0 +1,14 @@
+package electrodomesticos;
+
+public class televisor {
+	// descripciones
+	String marca;		// cadena de caracteres
+	boolean encendido;	// true o false || 0 o 1 || "" o " " 	
+	double pulgadas;	// numeros que tienen decimales
+	
+	// comportamientos
+	public void encender() {
+		
+	}
+	
+}

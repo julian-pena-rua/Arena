@@ -1,0 +1,16 @@
+package MediavalArena;
+
+
+public class mensaje_confirmacion {
+
+	
+	public boolean confirmacion;
+
+	
+	public boolean confirmacion() {
+		// operaciones y mensajes de confirmacion
+		this.confirmacion = true;
+		
+		return this.confirmacion;
+	}		
+}

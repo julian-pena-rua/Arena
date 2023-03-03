@@ -1,0 +1,92 @@
+
+d
+java:S1481Z",Remove this unused "mostrar" local variable.(¯þúëùÿÿÿÿ8øô±Õé0HÛHRMINORZ
+CODE_SMELL
+d	java:S106k"9Replace this use of System.out or System.err by a logger.(¥’¾ŽHÝHRMAJORZ
+CODE_SMELL
+d
+java:S1481s",Remove this unused "mostrar" local variable.(óé×Æúÿÿÿÿ8æñ°Õé0HÞHRMINORZ
+CODE_SMELL
+^
+java:S6126k"2Replace this String concatenation with Text block.(¥’¾ŽHàHRMAJORZ
+CODE_SMELL
+i	java:S106_"9Replace this use of System.out or System.err by a logger.(‰¹ÈÅýÿÿÿÿHáHRMAJORZ
+CODE_SMELL
+i	java:S106<"9Replace this use of System.out or System.err by a logger.(¸ üßþÿÿÿÿHâHRMAJORZ
+CODE_SMELL
+^
+java:S6126"2Replace this String concatenation with Text block.(”ÝÏºHãHRMAJORZ
+CODE_SMELL
+y	java:S116*"NRename this field "Res" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰‘ãÎHäHRMINORZ
+CODE_SMELL
+s
+java:S1854s";Remove this useless assignment to local variable "mostrar".(óé×Æúÿÿÿÿ8øô±Õé0HåHRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿHæHRMAJORZ
+CODE_SMELL
+j
+java:S1128"2Remove this unused import 'personajes.IPersonaje'.(®Ýúøþÿÿÿÿ8ÔÏÑ‚ê0HçHRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿHéHRMAJORZ
+CODE_SMELL
+d	java:S106!"9Replace this use of System.out or System.err by a logger.(ÚŽÂâHêHRMAJORZ
+CODE_SMELL
+{
+java:S1192@"LDefine a constant instead of duplicating this literal "Seleccion: " 3 times.(î«‰•HëHRCRITICALZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(”ÝÏºHïHRMAJORZ
+CODE_SMELL
+p	java:S106="9Replace this use of System.out or System.err by a logger.(ÜþŸÄÿÿÿÿÿ8¹ž¾‚ê0HðHRMAJORZ
+CODE_SMELL
+[
+java:S1172F"/Remove this unused method parameter "eleccion".(•ÏôÅHñHRMAJORZ
+CODE_SMELL
+d	java:S106@"9Replace this use of System.out or System.err by a logger.(î«‰•HóHRMAJORZ
+CODE_SMELL
+c
+java:S6126P"2Replace this String concatenation with Text block.(àÛ¿¡üÿÿÿÿHôHRMAJORZ
+CODE_SMELL
+s
+java:S1854Z";Remove this useless assignment to local variable "mostrar".(¯þúëùÿÿÿÿ8æñ°Õé0HõHRMAJORZ
+CODE_SMELL
+x	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢èŽZHöHRMINORZ
+CODE_SMELL
+d	java:S106`"9Replace this use of System.out or System.err by a logger.(Ÿ±ìˆH÷HRMAJORZ
+CODE_SMELL
+~	java:S116)"SRename this field "Eleccion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü±•òHøHRMINORZ
+CODE_SMELL
+c	java:S106b"9Replace this use of System.out or System.err by a logger.(‚ü•HùHRMAJORZ
+CODE_SMELL
+	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ë‚¾ýÿÿÿÿHúHRMINORZ
+CODE_SMELL
+d	java:S106U"9Replace this use of System.out or System.err by a logger.(î«‰•HûHRMAJORZ
+CODE_SMELL
+i	java:S1069"9Replace this use of System.out or System.err by a logger.(¯¹Í‘üÿÿÿÿHüHRMAJORZ
+CODE_SMELL
+€	java:S116+"PRename this field "Stats" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì…ÎŽûÿÿÿÿHýHRMINORZ
+CODE_SMELL
+©
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¢èŽZ8£€„…ê0HþHRMINORZ
+CODE_SMELL
+i	java:S106:"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿH€IRMAJORZ
+CODE_SMELL
+d	java:S106o"9Replace this use of System.out or System.err by a logger.(î«‰•HIRMAJORZ
+CODE_SMELL
+i	java:S106P"9Replace this use of System.out or System.err by a logger.(àÛ¿¡üÿÿÿÿH‚IRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Àá­æùÿÿÿÿ8¬›Ì³ê0HƒIRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÀºë8¬›Ì³ê0H„IRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÁ•Üþÿÿÿÿ8¬›Ì³ê0H…IRMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(¸·†¨8¬›Ì³ê0H†IRMAJORZ
+CODE_SMELL
+s	java:S1255"<This block of commented-out lines of code should be removed.( ë°õùÿÿÿÿ8¬›Ì³ê0H‡IRMAJORZ
+CODE_SMELL
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿ8¬›Ì³ê0HˆIRMAJORZ
+CODE_SMELL
+k	java:S1068"9Replace this use of System.out or System.err by a logger.(¶Ðñ¢8¬›Ì³ê0H‰IRMAJORZ
+CODE_SMELL
+k	java:S106H"9Replace this use of System.out or System.err by a logger.(ÚŽÂâ8¬›Ì³ê0HŠIRMAJORZ
+CODE_SMELL

@@ -1,0 +1,62 @@
+
+{	java:S116"PRename this field "VidaM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•åèïH˛	RMINORZ
+CODE_SMELL
+}	java:S116"RRename this field "EscudoM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÿàõHˇ	RMINORZ
+CODE_SMELL
+Å	java:S116"VRename this field "Rayo_Magico" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∫ßπ…HÄ
+RMINORZ
+CODE_SMELL
+Ñ	java:S116"YRename this field "Rayo_Celestial" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£”ÉÿHÅ
+RMINORZ
+CODE_SMELL
+Ä	java:S116"URename this field "NombreMago" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔŒù√HÇ
+RMINORZ
+CODE_SMELL
+~	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°…âÉ¯ˇˇˇˇHÉ
+RMINORZ
+CODE_SMELL
+e
+java:S3400"9Remove this method and declare a constant for this value.(â’’“HÑ
+RMINORZ
+CODE_SMELL
+y	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë˝§ÀHÖ
+RMINORZ
+CODE_SMELL
+j
+java:S3400"9Remove this method and declare a constant for this value.(ïËœ¨˛ˇˇˇˇHÜ
+RMINORZ
+CODE_SMELL
+y	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±∫¿˘Há
+RMINORZ
+CODE_SMELL
+e
+java:S3400"9Remove this method and declare a constant for this value.(¢É†•Hà
+RMINORZ
+CODE_SMELL
+y	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ıÜØHâ
+RMINORZ
+CODE_SMELL
+d
+java:S3400"9Remove this method and declare a constant for this value.(¥ò®Hä
+RMINORZ
+CODE_SMELL
+U
+java:S1068")Remove this unused "VidaM" private field.(•åèïHã
+RMAJORZ
+CODE_SMELL
+W
+java:S1068"+Remove this unused "EscudoM" private field.(ÓÿàõHç
+RMAJORZ
+CODE_SMELL
+[
+java:S1068"/Remove this unused "Rayo_Magico" private field.(∫ßπ…Hè
+RMAJORZ
+CODE_SMELL
+^
+java:S1068"2Remove this unused "Rayo_Celestial" private field.(£”ÉÿHë
+RMAJORZ
+CODE_SMELL
+Z
+java:S1068".Remove this unused "NombreMago" private field.(ÔŒù√Hì
+RMAJORZ
+CODE_SMELL

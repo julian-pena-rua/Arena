@@ -1,0 +1,18 @@
+package animales;
+
+public class gato {
+	
+	// descripciones (contexto) || VARIABLES
+	String 	tipoPelaje; 
+	int 	numeroPatas = 4; 	// por defecto 4
+	String 	color;
+	String 	raza;
+	
+	// comportamientos - habitos - actividades - habilidades
+	public void	vejiga() {
+		// maximo 10 min 0
+	}	
+	
+	
+	
+}

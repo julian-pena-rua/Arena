@@ -1,0 +1,15 @@
+
+i	java:S106
+"9Replace this use of System.out or System.err by a logger.(¦âÅ„ÿÿÿÿÿHÊARMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¼àÖHÌARMAJORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ê‚ÜËHÉARMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(©Ë£HËARMAJORZ
+CODE_SMELL
+‰
+java:S1104"XMake confirmacion a static final constant or non-public and provide accessors if needed.(¦ñ«ÿÿÿÿÿHÈARMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ğôïîşÿÿÿÿHÍARMAJORZ
+CODE_SMELL

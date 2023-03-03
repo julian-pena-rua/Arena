@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="MediavalArena.HyperRandomArena"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="personajes.Barbaro"/>
+    <fullyQualifiedTypeName name="personajes.personaje"/>
+    <fullyQualifiedTypeName name="personajes.Hechicero"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="habilidades.especial"/>
+    <fullyQualifiedTypeName name="personajes.Personaje"/>
+    <fullyQualifiedTypeName name="personajes.IPersonaje"/>
+    <fullyQualifiedTypeName name="MediavalArena.mensaje_confirmacion"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="menu_consola.LimpiarConsola"/>
+    <fullyQualifiedTypeName name="java.io.Console"/>
+</qualifiedTypeNameHistroy>

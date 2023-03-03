@@ -1,0 +1,31 @@
+package animales;
+
+public class gato {
+	
+	// descripciones (contexto) || VARIABLES
+	String 	tipoPelaje; 
+	int 	numeroPatas = 4; 	// por defecto 4
+	String 	color;
+	String 	raza;
+	int 	vejiga;
+	int 	estomago;
+	
+	// comportamientos - habitos - actividades - habilidades
+	
+	
+	public void	evacuar_vejiga() {
+		// maximo 10 min 0
+	}	
+	public void maullar() {
+		// imprime onomatopeya del gato "miau"
+	}
+	public void ronronear() {
+		// imprime onomatopeya del gato "miau"
+	}
+	public void comer() {
+		// imprime onomatopeya del gato "miau"
+	}
+	public void domirr() {
+		// imprime onomatopeya del gato "miau"
+	}
+}

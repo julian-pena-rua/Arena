@@ -1,0 +1,11 @@
+package MediavalArena;
+
+
+public class mensaje_confirmacion {
+	
+	public boolean confirmacion() {
+		// operaciones y mensajes de confirmacion
+		System.out.println("¿Está seguro de su elección?");
+		return true;
+	}		
+}

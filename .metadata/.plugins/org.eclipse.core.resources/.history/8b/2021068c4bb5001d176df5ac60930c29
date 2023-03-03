@@ -1,0 +1,9 @@
+package electrodomesticos;
+
+public class televisor {
+	// descripciones
+	String marca;
+	double pulgadas;
+	
+	// comportamientos
+}

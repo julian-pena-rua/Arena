@@ -1,0 +1,12 @@
+package electrodomesticos;
+
+public class televisor {
+	// descripciones
+	String marca;	// cadena de caracteres
+	boolean verdadero;	
+	double pulgadas;
+	
+	
+	
+	// comportamientos
+}

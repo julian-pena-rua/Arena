@@ -1,0 +1,76 @@
+
+d
+java:S1135"2Complete the task associated to this TODO comment.(‚Ù»İ8Ïë«Õé0HARINFOZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(†³Óüÿÿÿÿ8Ïë«Õé0HŸARMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(œ”Œıÿÿÿÿÿ8Ïë«Õé0H ARMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(™À÷Ïşÿÿÿÿ8Ïë«Õé0H¡ARMAJORZ
+CODE_SMELL
+k	java:S106-"9Replace this use of System.out or System.err by a logger.(ğâ†8Ïë«Õé0H¢ARMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿ8Ïë«Õé0H£ARMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(«‚­ıÿÿÿÿ8Ïë«Õé0H¤ARMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Á¡¥³úÿÿÿÿ8Ïë«Õé0H¥ARMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ş´Ãªüÿÿÿÿ8Ïë«Õé0H¦ARMAJORZ
+CODE_SMELL
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(®¶¾µ8Ïë«Õé0H§ARMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(è¢ÄÃ8Ïë«Õé0H¨ARMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(Ã¿Ù»úÿÿÿÿ8Ïë«Õé0H©ARMAJORZ
+CODE_SMELL
+Œ
+java:S1192"QDefine a constant instead of duplicating this literal "----------------" 6 times.(áÛêÍüÿÿÿÿ8Ïë«Õé0HªARCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(áÛêÍüÿÿÿÿ8Ïë«Õé0H±ARMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(â–8Ïë«Õé0H²ARMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(Ğ‹«Şıÿÿÿÿ8Ïë«Õé0H³ARMAJORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿ8Ïë«Õé0H´ARMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚Ù»İ8Ïë«Õé0HµARMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿ8Ïë«Õé0H¶ARMAJORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(áÛêÍüÿÿÿÿ8Ïë«Õé0H·ARMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ôÏ³°8Ïë«Õé0H¸ARMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿ8Ïë«Õé0H¹ARMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿ8Ïë«Õé0HºARMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(òğ°œıÿÿÿÿ8Ïë«Õé0H»ARMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(½ò·¾ıÿÿÿÿ8Ïë«Õé0H¼ARMAJORZ
+CODE_SMELL
+d
+java:S1135"2Complete the task associated to this TODO comment.(–ìáÜ8Ïë«Õé0H½ARINFOZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(éçàÜûÿÿÿÿ8Ïë«Õé0H¾ARMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(áÛêÍüÿÿÿÿ8Ïë«Õé0H¿ARMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(ºÄ•ºÿÿÿÿÿ8Ïë«Õé0HÀARMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(˜ºÿ‘ûÿÿÿÿ8Ïë«Õé0HÁARMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Îû¿Ÿùÿÿÿÿ8Ïë«Õé0HÂARMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(–ìáÜ8Ïë«Õé0HÃARMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¢ÿÍ¯8Ïë«Õé0HÄARMAJORZ
+CODE_SMELL
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(û‡Õƒ8Ïë«Õé0HÅARMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(ÔÙîşÿÿÿÿ8Ïë«Õé0HÆARMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(áŸ™ï8Ïë«Õé0HÇARMAJORZ
+CODE_SMELL

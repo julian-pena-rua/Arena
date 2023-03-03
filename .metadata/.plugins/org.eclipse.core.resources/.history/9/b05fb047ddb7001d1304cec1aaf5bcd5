@@ -1,0 +1,203 @@
+package personajes;
+
+public class Romano extends Personaje implements IPersonaje{
+
+	@Override
+	public String Nombre() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public int Nivel() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int Experiencia() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public String Clase() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String Profesion() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public int Vida() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int Escudo() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int PoderMagico() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public String Saludo() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String MensajeBatalla() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String Despedida() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String MensajeAlMorir() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public int Ataque() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int Defensa() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int Fuerza() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int Destreza() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int Inteligencia() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int Sabiduria() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int Carisma() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int Suerte() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int Aagilidad() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int AtaqueNormal() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public int AtaqueEspecial() {
+		// TODO Esbozo de método generado automáticamente
+		return 0;
+	}
+
+	@Override
+	public String FotoPerfilParte1() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String FotoPerfilParte2() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String FotoPerfilParte3() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String FotoPerfilParte4() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String FotoPerfilParte5() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String FotoPerfilParte6() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String FotoPerfilParte7() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String FotoPerfilParte8() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String FotoPerfilParte9() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+	@Override
+	public String FotoPerfilParte10() {
+		// TODO Esbozo de método generado automáticamente
+		return null;
+	}
+
+}

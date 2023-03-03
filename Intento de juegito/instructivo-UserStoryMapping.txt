@@ -1,0 +1,23 @@
+Para realizar el user story mapping debes de seguir los siguientes pasos:
+
+1. Conocer el significado de lo que está en la columna izquierda.
+- Actor: Persona que interactúa con el sistema, se debe de saber qué tipo de rol cumple, si es administrativo, si es gestión, moderador, colaborador, entre otros.
+- Objetivos: Qué debe cumplir el módulo o pieza funcional del sistema. 
+- MVP: Primera versión que se publicará del juego. Esta es la mínima versión aceptable para que se pueda lanzar el juego al público. 
+Para lograr esto se deben priorizar las tarjetas de detalle de acuerdo a la urgencia.
+- Versión 2: Segunda versión que se publicará del juego. Esta es una versión con más avances y más completa. 
+- Versión 3: Tercera versión que se publicará del juego. Esta es una versión nuevos contenidos y más completa.
+- Versión N: N versión que se publicará del juego. Esta es una versión con nuevos contenidos y más completa. 
+
+2. Del texto en el documento .md se debe cumplir con la estructura propuesta, esto con el fin de poder facilitar el ejercicio del siguiente paso, esta estructura es conocida como "historia de usuario". Separar así: 
+	Yo como: 
+	Quiero: 
+	Para: 
+
+
+3. Ubicar todas las historias de usuario frente la versión que considere adecuada.
+
+
+
+
+APOYARSE DEL EJEMPLO YA REALIZADO EN EL DOCUMENTO DE DIBUJOS DE GOOGLE

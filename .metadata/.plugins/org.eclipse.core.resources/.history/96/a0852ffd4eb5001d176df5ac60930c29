@@ -1,0 +1,28 @@
+package MediavalArena;
+
+import animales.animal;
+
+public class mensaje_confirmacion extends animal {
+	
+	// descripciones (contexto) || VARIABLES
+	String 	color;
+	String 	raza;
+	boolean confirmacion;
+	
+	public gato() {
+		// operaciones
+	}
+	
+	// comportamientos - habitos - actividades - habilidades
+	
+	public void ronronear() {
+		// imprime onomatopeya del gato "grrr"
+	}
+	
+	public boolean confirmacion() {
+		// operaciones y mensajes de confirmacion
+		this.confirmacion = true;
+		
+		return this.confirmacion;
+	}		
+}
